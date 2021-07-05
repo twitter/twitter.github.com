@@ -1822,7 +1822,7 @@
   "twitter/util": {
     "descriptionHTML": "<div>Wonderful reusable code from Twitter</div>",
     "forkCount": 532,
-    "homepageUrl": "http://twitter.github.com/util",
+    "homepageUrl": "https://github.com/twitter/util",
     "isPrivate": false,
     "languages": "Scala Java",
     "name": "util",
